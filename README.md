@@ -75,14 +75,14 @@ _Ringball Corporation, Dorval, QC_
     * Provide managers and co-workers with computer technical support.   
     * Personally designed and implemented a system to track quote follow ups in Excel.   
   
-##Shipper/Receiver; September 2004 - May 2006   
+####Shipper/Receiver; September 2004 - May 2006   
 _Ringball Corporation, Dorval, QC_  
     * Ensured that all orders that left the warehouse were error free.   
     * Prioritized orders to be filled by relative urgency.   
     * Ensured that all incoming orders were free of errors.   
     * Shipped and tracked orders with various transport companies.   
   
-####Education   
+##Education   
 2009-2013: McGill University, Certificate in Software Development.   
 2003-2004: John Abbott College, Media Arts.   
 2000-2002: John Abbott College, Commerce & Business Administration.   
