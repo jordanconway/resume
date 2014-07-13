@@ -1,5 +1,3 @@
-resume  
-======  
 #Jordan Conway  
 4286 Rue Saint Antoine Ouest  
 Montreal, QC  
