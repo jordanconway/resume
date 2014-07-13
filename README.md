@@ -16,7 +16,7 @@ I am proficient at modern Linux, Mac and Windows operating systems. I have deplo
 ##Employment History   
   
 ####System Administrator; October 2012 - present  
-_NeuroRx Research, Montreal, QC_   
+*_NeuroRx Research, Montreal, QC_*
     * Implemented Puppet for configuration management and deployment of Linux servers and desktops.  
     * Wrote many puppet manifests for various services and configurations  
     * Implemented revision control using git and mercurial for internal teams  
