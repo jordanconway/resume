@@ -2,13 +2,9 @@ resume
 ======
 #Jordan Conway
 4286 Rue Saint Antoine Ouest
-
 Montreal, QC
-
 H4C 1C5
-
 jordan@jordanconway.com
-
 Tel: 514-647-7430 
 
 ##Languages 
