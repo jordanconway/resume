@@ -32,8 +32,8 @@ I am proficient at modern Linux, Mac and Windows operating systems. I have deplo
     * Installed and configured monitoring software (Icinga/Nagios) for servers and network devices.   
     * Work with end users to solve their various computer needs and problems.   
     * Create and manage multiple Windows and Linux servers in virtualized environments (vSphere,   
-XenServer) Datacenter management, re-cabling patch panels to ensure a clean, well   
-documented, easily workable server environment.   
+XenServer)  
+    * Datacenter management, re-cabling patch panels to ensure a clean, well documented, easily workable server environment.   
     * Wrote a Ruby web application to allow end users to securely reset their own domain   
 passwords.   
     * Contribute to writing Standard Operating Procedures for IT tasks with a goal of ISO   
