@@ -11,7 +11,7 @@ Tel: 514-647-7430
 English and French (Fluent)   
   
 ##Computer Skills   
-I am proficient at modern Linux, Mac and Windows operating systems. I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
+I am proficient at modern Linux, Mac and Windows operating systems. I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web and server technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
   
 ##Employment History   
   
@@ -28,7 +28,7 @@ I am proficient at modern Linux, Mac and Windows operating systems. I have deplo
     * maintenance and support of data arrays, Linux system administration, managing virtualized and physical hardware, data analysis, image processing, network management, user support.  
   
 ####IT Support Specialist; June 2012 – September 2012   
-_Haivision Network Video, St-Laurent, QC_  
+***Haivision Network Video, St-Laurent, QC***  
     * Manage and maintain corporate IT infrastructure across 5 geographic locations.   
     * Installed and configured monitoring software (Icinga/Nagios) for servers and network devices.   
     * Work with end users to solve their various computer needs and problems.   
@@ -43,7 +43,7 @@ certification.
     * Managing web servers and content management systems.   
   
 ####Systems Administrator; September 2011 – June 2012   
-_CloudOps (Syntenic Inc.), Montreal, QC_  
+***CloudOps (Syntenic Inc.), Montreal, QC***  
     * Manage and maintain dozens of Linux and Windows systems for multiple clients in virtualized private cloud environments (XenServer).   
     * Basic networking maintenance on firewall/routers (Fortinet).   
     * Provide 24 hour/day quick response to server monitoring alarms.   
@@ -55,7 +55,7 @@ management of various settings, tools and applications.
     * Basic data center work; replacing failed SAN drives, pulling obsolete servers from racks.   
   
 ####Senior Support Technician; August 2010 – October 2011   
-_StatusNet Inc., Montreal, QC_  
+***StatusNet Inc., Montreal, QC***  
     * Provide customer and technical support via email, telephone, social networks, irc and web forums.   
     * Test, install and deploy StatusNet web software on various hosting environments.   
     * Assist in maintenance and administration of Linux production servers both virtualized on   
@@ -67,7 +67,7 @@ Amazon Web Services and physical dedicated servers.
     * Main support contact for identi.ca social network and Status.net Cloud/OnDemand services   
   
 ####Inside Sales/Customer Service; May 2006 - August 2010   
-_Ringball Corporation, Dorval, QC_   
+***Ringball Corporation, Dorval, QC***   
     * Find and convert leads into account customers.   
     * Maintain relationships with customers over phone, fax and email.   
     * Aid customers in selecting appropriate products for their needs.   
@@ -76,7 +76,7 @@ _Ringball Corporation, Dorval, QC_
     * Personally designed and implemented a system to track quote follow ups in Excel.   
   
 ####Shipper/Receiver; September 2004 - May 2006   
-_Ringball Corporation, Dorval, QC_  
+***Ringball Corporation, Dorval, QC***  
     * Ensured that all orders that left the warehouse were error free.   
     * Prioritized orders to be filled by relative urgency.   
     * Ensured that all incoming orders were free of errors.   
