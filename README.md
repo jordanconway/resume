@@ -21,9 +21,9 @@ I am proficient at modern Linux, Mac and Windows operating systems. I have deplo
     * Implemented infrastructure monitoring and alerting with Icinga and Cacti.  
     * Configuration management and deployment of Mac OS Desktops with Deploy Studio  
     * Manage and maintain internal data center, UPS, PBX, physical security access.  
-    * Provide support for 80+ Mac and Linux desktop users. 
-    * Linux-KVM virtualization across several VM hosts with and without shared storage (Nexenta) 
-    * Produced and maintained documentation for procedures and assets that stood up to the scrutiny of an FDA audit.
+    * Provide support for 80+ Mac and Linux desktop users.   
+    * Linux-KVM virtualization across several VM hosts with and without shared storage (Nexenta)   
+    * Produced and maintained documentation for procedures and assets that stood up to the scrutiny of an FDA audit.  
     * Maintenance and support of data arrays, Linux system administration, managing virtualized and physical hardware, data analysis, network management, user support.  
   
 ####IT Support Specialist; June 2012 – September 2012   
