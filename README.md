@@ -11,14 +11,11 @@ Tel: 514-647-7430
 English and French (Fluent)   
   
 ##Computer Skills   
-I am proficient at modern Linux, Mac and Windows operating systems. I have deployed and maintained  
- systems on a variety of public and private cloud platforms. I am very familiar with installation   
-and configuration of many web technologies. I am skilled with Linux command line tools, bash scripting.  
-I have experience writing java, ruby, php, javascript, css, SQL and html.   
+I am proficient at modern Linux, Mac and Windows operating systems. I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
   
 ##Employment History   
   
-###System Administrator; October 2012 - present  
+####System Administrator; October 2012 - present  
 _NeuroRx Research, Montreal, QC_   
     * Implemented Puppet for configuration management and deployment of Linux servers and desktops.  
     * Wrote many puppet manifests for various services and configurations  
@@ -30,7 +27,7 @@ _NeuroRx Research, Montreal, QC_
     * Produced and maintained documentation for procedures and assets that stood up to the scrutiny of an FDA audit.  
     * maintenance and support of data arrays, Linux system administration, managing virtualized and physical hardware, data analysis, image processing, network management, user support.  
   
-###IT Support Specialist; June 2012 – September 2012   
+####IT Support Specialist; June 2012 – September 2012   
 _Haivision Network Video, St-Laurent, QC_  
     * Manage and maintain corporate IT infrastructure across 5 geographic locations.   
     * Installed and configured monitoring software (Icinga/Nagios) for servers and network devices.   
@@ -45,7 +42,7 @@ certification.
     * Basic networking with Dell and Alcatel switches and PfSense firewalls.   
     * Managing web servers and content management systems.   
   
-###Systems Administrator; September 2011 – June 2012   
+####Systems Administrator; September 2011 – June 2012   
 _CloudOps (Syntenic Inc.), Montreal, QC_  
     * Manage and maintain dozens of Linux and Windows systems for multiple clients in virtualized private cloud environments (XenServer).   
     * Basic networking maintenance on firewall/routers (Fortinet).   
@@ -57,7 +54,7 @@ management of various settings, tools and applications.
     * Aid in capacity and environment planning for clients.   
     * Basic data center work; replacing failed SAN drives, pulling obsolete servers from racks.   
   
-###Senior Support Technician; August 2010 – October 2011   
+####Senior Support Technician; August 2010 – October 2011   
 _StatusNet Inc., Montreal, QC_  
     * Provide customer and technical support via email, telephone, social networks, irc and web forums.   
     * Test, install and deploy StatusNet web software on various hosting environments.   
@@ -69,7 +66,7 @@ Amazon Web Services and physical dedicated servers.
     * Acted as Scrum Master in a scrum development cycle, kept developers on task.   
     * Main support contact for identi.ca social network and Status.net Cloud/OnDemand services   
   
-###Inside Sales/Customer Service; May 2006 - August 2010   
+####Inside Sales/Customer Service; May 2006 - August 2010   
 _Ringball Corporation, Dorval, QC_   
     * Find and convert leads into account customers.   
     * Maintain relationships with customers over phone, fax and email.   
@@ -85,14 +82,7 @@ _Ringball Corporation, Dorval, QC_
     * Ensured that all incoming orders were free of errors.   
     * Shipped and tracked orders with various transport companies.   
   
-###Education   
+####Education   
 2009-2013: McGill University, Certificate in Software Development.   
 2003-2004: John Abbott College, Media Arts.   
 2000-2002: John Abbott College, Commerce & Business Administration.   
-          
-  
-  
-  
-  
-  
-
