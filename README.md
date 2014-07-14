@@ -9,13 +9,13 @@ Tel: 514-647-7430
 English and French (Fluent)   
   
 ##Computer Skills   
-I am proficient at modern Linux, Mac and Windows operating systems. I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web and server technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
+I am proficient at modern Linux, Mac and Windows operating systems. I believe in automation, virtualization and configuration management - currently I am most proficient in Puppet/Mcollective, KVM and git/mercurial.  I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web and server technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
   
 ##Employment History   
   
 ####System Administrator; October 2012 - present  
 ***NeuroRx Research, Montreal, QC***  
-    * Implemented Puppet for configuration management and deployment of Linux servers and desktops.  
+    * Implemented Puppet and Mcollective for configuration management and deployment of Linux servers and desktops.  
     * Wrote many puppet manifests for various services and configurations  
     * Implemented revision control using git and mercurial for internal teams  
     * Implemented infrastructure monitoring and alerting with Icinga and Cacti.  
