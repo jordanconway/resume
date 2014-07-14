@@ -9,7 +9,7 @@ Tel: 514-647-7430
 English and French (Fluent)   
   
 ##Computer Skills   
-I am proficient at modern Linux, Mac and Windows operating systems. I believe in automation, virtualization and configuration management - currently I am most proficient in Puppet/Mcollective, KVM and git/mercurial.  I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web and server technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
+I am proficient at modern Linux, Mac and Windows operating systems. I am a proponent automation, virtualization and configuration management - currently I am most proficient in Puppet/Mcollective, KVM and git/mercurial.  I have deployed and maintained  systems on a variety of public and private cloud platforms. I am very familiar with installation and configuration of many web and server technologies. I am skilled with Linux command line tools, bash scripting.  I have experience writing java, ruby, php, javascript, css, SQL and html.   
   
 ##Employment History   
   
